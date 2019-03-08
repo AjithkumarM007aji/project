@@ -1,7 +1,7 @@
 #include<stdio.h>
  int main()
 {
-  int arr[20],n,search,first,last,mid,i;
+  int arr[20],n,search,first,last,mid,i:
   printf("Enter the number of elements");
   scanf("%d",&n);
   printf("Enter the array element");
